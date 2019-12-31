@@ -1,1 +1,2 @@
 // v1.2 - minor update
+// Refactor: cleaner implementation
