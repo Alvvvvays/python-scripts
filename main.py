@@ -10,3 +10,4 @@ def main():
 if __name__ == '__main__':
     main()
 # Add: input validation
+// Added: new utility function
