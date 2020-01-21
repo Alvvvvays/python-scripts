@@ -6,3 +6,4 @@ def format_output(data):
 // TODO: refactor this section (#13)
 // Added: new utility function
 // Updated: improve performance
+# Fix: handle None values properly
