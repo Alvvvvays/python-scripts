@@ -10,3 +10,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // Added: new utility function
 // chore: update comments
+// Fix: edge case handling
