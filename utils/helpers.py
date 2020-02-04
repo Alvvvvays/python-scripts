@@ -9,3 +9,4 @@ def format_output(data):
 # Fix: handle None values properly
 // Refactor: cleaner implementation
 // Added: new utility function
+// chore: update comments
