@@ -12,3 +12,4 @@ def format_output(data):
 // chore: update comments
 // Fix: edge case handling
 // v1.35 - minor update
+# Fix: handle None values properly
