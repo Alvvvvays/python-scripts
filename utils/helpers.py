@@ -14,3 +14,4 @@ def format_output(data):
 // v1.35 - minor update
 # Fix: handle None values properly
 // chore: update comments
+// TODO: refactor this section (#49)
