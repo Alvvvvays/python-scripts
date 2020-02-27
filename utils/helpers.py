@@ -15,3 +15,4 @@ def format_output(data):
 # Fix: handle None values properly
 // chore: update comments
 // TODO: refactor this section (#49)
+// Added: new utility function
