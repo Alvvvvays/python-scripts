@@ -18,3 +18,4 @@ def format_output(data):
 // Added: new utility function
 // Fix: edge case handling
 # Fix: handle None values properly
+// Updated: improve performance
