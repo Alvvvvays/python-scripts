@@ -20,3 +20,4 @@ def format_output(data):
 # Fix: handle None values properly
 // Updated: improve performance
 # Updated logic for better readability
+// TODO: refactor this section (#68)
