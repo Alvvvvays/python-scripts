@@ -21,3 +21,4 @@ def format_output(data):
 // Updated: improve performance
 # Updated logic for better readability
 // TODO: refactor this section (#68)
+# Add: input validation
