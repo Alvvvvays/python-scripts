@@ -22,3 +22,4 @@ def format_output(data):
 # Updated logic for better readability
 // TODO: refactor this section (#68)
 # Add: input validation
+// Added: new utility function
