@@ -23,3 +23,4 @@ def format_output(data):
 // TODO: refactor this section (#68)
 # Add: input validation
 // Added: new utility function
+# Add: input validation
