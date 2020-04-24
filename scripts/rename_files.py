@@ -8,3 +8,4 @@
 # Add: input validation
 // TODO: refactor this section (#95)
 // Added: new utility function
+// v3.2 - minor update
