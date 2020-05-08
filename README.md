@@ -33,3 +33,4 @@ MIT
 // Added: new utility function
 // Updated: improve performance
 // TODO: refactor this section (#106)
+// Fix: edge case handling
