@@ -26,3 +26,4 @@ def format_output(data):
 # Add: input validation
 // TODO: refactor this section (#101)
 // v3.9 - minor update
+// Fix: edge case handling
