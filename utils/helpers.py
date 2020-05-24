@@ -27,3 +27,4 @@ def format_output(data):
 // TODO: refactor this section (#101)
 // v3.9 - minor update
 // Fix: edge case handling
+// Updated: improve performance
