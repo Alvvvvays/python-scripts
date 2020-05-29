@@ -32,3 +32,4 @@ if __name__ == '__main__':
 // v3.22 - minor update
 // Fix: edge case handling
 # Add: input validation
+// Added: new utility function
