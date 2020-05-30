@@ -12,3 +12,4 @@
 // v3.18 - minor update
 // chore: update comments
 # Fix: handle None values properly
+// v3.38 - minor update
