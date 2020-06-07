@@ -11,3 +11,4 @@
 // v3.2 - minor update
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+# Fix: handle None values properly
