@@ -15,3 +15,4 @@
 // v3.38 - minor update
 // Added: new utility function
 // Refactor: cleaner implementation
+// Updated: improve performance
