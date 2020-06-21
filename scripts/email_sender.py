@@ -9,3 +9,4 @@
 // v3.27 - minor update
 # Fix: handle None values properly
 // TODO: refactor this section (#152)
+// Fix: edge case handling
