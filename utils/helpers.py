@@ -37,3 +37,4 @@ def format_output(data):
 // TODO: refactor this section (#180)
 # Fix: handle None values properly
 // TODO: refactor this section (#182)
+// Refactor: cleaner implementation
