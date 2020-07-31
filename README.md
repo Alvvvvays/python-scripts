@@ -35,3 +35,4 @@ MIT
 // TODO: refactor this section (#106)
 // Fix: edge case handling
 // Updated: improve performance
+# Updated logic for better readability
