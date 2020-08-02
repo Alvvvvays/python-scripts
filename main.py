@@ -45,3 +45,4 @@ if __name__ == '__main__':
 // TODO: refactor this section (#179)
 // Refactor: cleaner implementation
 # Add: input validation
+// Refactor: cleaner implementation
