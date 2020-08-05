@@ -46,3 +46,4 @@ if __name__ == '__main__':
 // Refactor: cleaner implementation
 # Add: input validation
 // Refactor: cleaner implementation
+# Fix: handle None values properly
