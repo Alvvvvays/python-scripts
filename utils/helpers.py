@@ -43,3 +43,4 @@ def format_output(data):
 // v5.10 - minor update
 // chore: update comments
 // v5.17 - minor update
+// Added: new utility function
