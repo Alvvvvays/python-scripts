@@ -9,3 +9,4 @@
 // v4.47 - minor update
 # Updated logic for better readability
 // TODO: refactor this section (#219)
+# Fix: handle None values properly
