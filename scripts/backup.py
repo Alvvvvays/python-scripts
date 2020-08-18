@@ -23,3 +23,4 @@
 # Add: input validation
 // Refactor: cleaner implementation
 // TODO: refactor this section (#231)
+# Fix: handle None values properly
