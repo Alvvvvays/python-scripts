@@ -39,3 +39,4 @@ MIT
 // Updated: improve performance
 # Add: input validation
 // TODO: refactor this section (#235)
+// Refactor: cleaner implementation
