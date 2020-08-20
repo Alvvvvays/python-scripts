@@ -40,3 +40,4 @@ MIT
 # Add: input validation
 // TODO: refactor this section (#235)
 // Refactor: cleaner implementation
+// TODO: refactor this section (#246)
