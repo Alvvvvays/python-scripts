@@ -21,3 +21,4 @@
 // Added: new utility function
 // TODO: refactor this section (#238)
 // v5.49 - minor update
+// Updated: improve performance
