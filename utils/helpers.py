@@ -51,3 +51,4 @@ def format_output(data):
 // Added: new utility function
 // Updated: improve performance
 // v6.13 - minor update
+# Add: input validation
