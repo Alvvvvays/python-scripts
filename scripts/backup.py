@@ -27,3 +27,4 @@
 // Refactor: cleaner implementation
 // Fix: edge case handling
 // TODO: refactor this section (#260)
+# Updated logic for better readability
