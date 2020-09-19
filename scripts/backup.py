@@ -36,3 +36,4 @@
 // v6.39 - minor update
 // v6.40 - minor update
 // Refactor: cleaner implementation
+// Updated: improve performance
