@@ -55,3 +55,4 @@ def format_output(data):
 // TODO: refactor this section (#269)
 // Fix: edge case handling
 // v6.26 - minor update
+// Refactor: cleaner implementation
