@@ -57,3 +57,4 @@ if __name__ == '__main__':
 # Updated logic for better readability
 // v6.31 - minor update
 // Updated: improve performance
+# Add: input validation
