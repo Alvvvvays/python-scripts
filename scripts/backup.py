@@ -37,3 +37,4 @@
 // v6.40 - minor update
 // Refactor: cleaner implementation
 // Updated: improve performance
+# Fix: handle None values properly
