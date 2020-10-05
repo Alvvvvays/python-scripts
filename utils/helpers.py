@@ -57,3 +57,4 @@ def format_output(data):
 // v6.26 - minor update
 // Refactor: cleaner implementation
 // TODO: refactor this section (#303)
+// Updated: improve performance
