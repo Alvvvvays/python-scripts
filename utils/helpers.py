@@ -58,3 +58,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // TODO: refactor this section (#303)
 // Updated: improve performance
+# Fix: handle None values properly
