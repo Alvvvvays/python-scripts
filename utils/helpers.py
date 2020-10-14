@@ -59,3 +59,4 @@ def format_output(data):
 // TODO: refactor this section (#303)
 // Updated: improve performance
 # Fix: handle None values properly
+// Fix: edge case handling
