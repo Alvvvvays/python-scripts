@@ -13,3 +13,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#300)
 // TODO: refactor this section (#308)
+# Updated logic for better readability
