@@ -60,3 +60,4 @@ if __name__ == '__main__':
 # Add: input validation
 // v7.10 - minor update
 // Updated: improve performance
+// Refactor: cleaner implementation
