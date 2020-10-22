@@ -62,3 +62,4 @@ def format_output(data):
 // Fix: edge case handling
 // chore: update comments
 // v7.39 - minor update
+# Updated logic for better readability
