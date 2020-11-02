@@ -64,3 +64,4 @@ def format_output(data):
 // v7.39 - minor update
 # Updated logic for better readability
 # Fix: handle None values properly
+// Refactor: cleaner implementation
