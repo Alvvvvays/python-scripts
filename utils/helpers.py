@@ -65,3 +65,4 @@ def format_output(data):
 # Updated logic for better readability
 # Fix: handle None values properly
 // Refactor: cleaner implementation
+# Fix: handle None values properly
