@@ -69,3 +69,4 @@ def format_output(data):
 // TODO: refactor this section (#361)
 // Added: new utility function
 # Updated logic for better readability
+// chore: update comments
