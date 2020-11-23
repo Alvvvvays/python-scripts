@@ -72,3 +72,4 @@ def format_output(data):
 // chore: update comments
 // Fix: edge case handling
 // TODO: refactor this section (#373)
+# Add: input validation
