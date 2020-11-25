@@ -74,3 +74,4 @@ def format_output(data):
 // TODO: refactor this section (#373)
 # Add: input validation
 // TODO: refactor this section (#384)
+// Updated: improve performance
