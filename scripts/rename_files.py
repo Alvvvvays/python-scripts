@@ -48,3 +48,4 @@
 // v8.38 - minor update
 // TODO: refactor this section (#393)
 // Fix: edge case handling
+# Fix: handle None values properly
