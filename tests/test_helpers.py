@@ -17,3 +17,4 @@
 // chore: update comments
 // Refactor: cleaner implementation
 // v9.2 - minor update
+// Added: new utility function
