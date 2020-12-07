@@ -16,3 +16,4 @@
 // chore: update comments
 // v7.47 - minor update
 // Refactor: cleaner implementation
+// Fix: edge case handling
