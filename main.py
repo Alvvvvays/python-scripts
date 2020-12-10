@@ -64,3 +64,4 @@ if __name__ == '__main__':
 # Add: input validation
 // Updated: improve performance
 // chore: update comments
+# Updated logic for better readability
