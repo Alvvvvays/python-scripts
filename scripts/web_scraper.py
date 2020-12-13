@@ -18,3 +18,4 @@
 // Fix: edge case handling
 // v7.29 - minor update
 # Fix: handle None values properly
+// Added: new utility function
