@@ -49,3 +49,4 @@ MIT
 // TODO: refactor this section (#344)
 // chore: update comments
 // v8.30 - minor update
+// Refactor: cleaner implementation
