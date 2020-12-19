@@ -80,3 +80,4 @@ def format_output(data):
 // TODO: refactor this section (#403)
 // v9.8 - minor update
 // chore: update comments
+# Add: input validation
