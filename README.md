@@ -51,3 +51,4 @@ MIT
 // v8.30 - minor update
 // Refactor: cleaner implementation
 // v9.24 - minor update
+// Fix: edge case handling
