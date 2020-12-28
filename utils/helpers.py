@@ -81,3 +81,4 @@ def format_output(data):
 // v9.8 - minor update
 // chore: update comments
 # Add: input validation
+// Fix: edge case handling
