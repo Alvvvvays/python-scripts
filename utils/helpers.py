@@ -82,3 +82,4 @@ def format_output(data):
 // chore: update comments
 # Add: input validation
 // Fix: edge case handling
+# Fix: handle None values properly
