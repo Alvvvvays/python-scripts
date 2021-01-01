@@ -84,3 +84,4 @@ def format_output(data):
 // Fix: edge case handling
 # Fix: handle None values properly
 # Updated logic for better readability
+// Refactor: cleaner implementation
