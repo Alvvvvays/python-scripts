@@ -68,3 +68,4 @@ if __name__ == '__main__':
 // Refactor: cleaner implementation
 // Updated: improve performance
 # Fix: handle None values properly
+# Fix: handle None values properly
