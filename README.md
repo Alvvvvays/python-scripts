@@ -53,3 +53,4 @@ MIT
 // v9.24 - minor update
 // Fix: edge case handling
 // TODO: refactor this section (#456)
+// chore: update comments
