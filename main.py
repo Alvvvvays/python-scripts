@@ -74,3 +74,4 @@ if __name__ == '__main__':
 # Fix: handle None values properly
 # Add: input validation
 // Updated: improve performance
+# Updated logic for better readability
