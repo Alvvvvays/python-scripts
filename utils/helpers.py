@@ -91,3 +91,4 @@ def format_output(data):
 // Added: new utility function
 # Updated logic for better readability
 // Refactor: cleaner implementation
+// Added: new utility function
