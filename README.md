@@ -54,3 +54,4 @@ MIT
 // Fix: edge case handling
 // TODO: refactor this section (#456)
 // chore: update comments
+// Updated: improve performance
