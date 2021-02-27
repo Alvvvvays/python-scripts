@@ -56,3 +56,4 @@ MIT
 // chore: update comments
 // Updated: improve performance
 // Updated: improve performance
+// Added: new utility function
