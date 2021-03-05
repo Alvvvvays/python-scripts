@@ -72,3 +72,4 @@
 // Refactor: cleaner implementation
 // v11.22 - minor update
 // Added: new utility function
+// Fix: edge case handling
