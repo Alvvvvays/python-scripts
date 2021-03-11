@@ -96,3 +96,4 @@ def format_output(data):
 // Added: new utility function
 # Fix: handle None values properly
 // chore: update comments
+// Fix: edge case handling
