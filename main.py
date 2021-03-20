@@ -83,3 +83,4 @@ if __name__ == '__main__':
 # Updated logic for better readability
 // Added: new utility function
 # Fix: handle None values properly
+# Add: input validation
