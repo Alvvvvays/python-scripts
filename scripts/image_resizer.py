@@ -22,3 +22,4 @@
 // v11.43 - minor update
 # Add: input validation
 // TODO: refactor this section (#554)
+// chore: update comments
