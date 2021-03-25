@@ -84,3 +84,4 @@ if __name__ == '__main__':
 // Added: new utility function
 # Fix: handle None values properly
 # Add: input validation
+// Fix: edge case handling
