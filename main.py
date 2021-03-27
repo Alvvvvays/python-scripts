@@ -85,3 +85,4 @@ if __name__ == '__main__':
 # Fix: handle None values properly
 # Add: input validation
 // Fix: edge case handling
+// Refactor: cleaner implementation
