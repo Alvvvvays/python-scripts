@@ -102,3 +102,4 @@ def format_output(data):
 // chore: update comments
 // Added: new utility function
 // Fix: edge case handling
+# Add: input validation
