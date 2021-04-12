@@ -72,3 +72,4 @@
 // v11.45 - minor update
 // Added: new utility function
 # Fix: handle None values properly
+// Refactor: cleaner implementation
