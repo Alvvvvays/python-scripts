@@ -79,3 +79,4 @@
 // v12.18 - minor update
 // Added: new utility function
 // TODO: refactor this section (#593)
+// Updated: improve performance
