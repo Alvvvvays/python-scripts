@@ -104,3 +104,4 @@ def format_output(data):
 // Fix: edge case handling
 # Add: input validation
 // v12.34 - minor update
+# Fix: handle None values properly
