@@ -105,3 +105,4 @@ def format_output(data):
 # Add: input validation
 // v12.34 - minor update
 # Fix: handle None values properly
+// Refactor: cleaner implementation
