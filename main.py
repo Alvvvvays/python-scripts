@@ -95,3 +95,4 @@ if __name__ == '__main__':
 // chore: update comments
 # Add: input validation
 // chore: update comments
+# Fix: handle None values properly
