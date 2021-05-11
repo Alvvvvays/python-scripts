@@ -109,3 +109,4 @@ def format_output(data):
 // TODO: refactor this section (#625)
 // Refactor: cleaner implementation
 # Fix: handle None values properly
+// TODO: refactor this section (#642)
