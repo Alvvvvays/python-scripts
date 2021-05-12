@@ -112,3 +112,4 @@ def format_output(data):
 // TODO: refactor this section (#642)
 # Add: input validation
 # Fix: handle None values properly
+// Added: new utility function
