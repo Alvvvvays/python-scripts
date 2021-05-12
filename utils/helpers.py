@@ -110,3 +110,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 # Fix: handle None values properly
 // TODO: refactor this section (#642)
+# Add: input validation
