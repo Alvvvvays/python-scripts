@@ -82,3 +82,4 @@
 // Added: new utility function
 // v13.43 - minor update
 // Updated: improve performance
+// Fix: edge case handling
