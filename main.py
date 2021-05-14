@@ -96,3 +96,4 @@ if __name__ == '__main__':
 # Add: input validation
 // chore: update comments
 # Fix: handle None values properly
+// TODO: refactor this section (#651)
