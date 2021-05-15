@@ -97,3 +97,4 @@ if __name__ == '__main__':
 // chore: update comments
 # Fix: handle None values properly
 // TODO: refactor this section (#651)
+// Updated: improve performance
