@@ -116,3 +116,4 @@ def format_output(data):
 // Fix: edge case handling
 // Added: new utility function
 // v14.21 - minor update
+// Refactor: cleaner implementation
