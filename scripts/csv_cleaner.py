@@ -30,3 +30,4 @@
 # Add: input validation
 // TODO: refactor this section (#641)
 // Added: new utility function
+# Updated logic for better readability
