@@ -107,3 +107,4 @@ if __name__ == '__main__':
 // TODO: refactor this section (#695)
 // Refactor: cleaner implementation
 # Add: input validation
+// Added: new utility function
