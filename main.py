@@ -108,3 +108,4 @@ if __name__ == '__main__':
 // Refactor: cleaner implementation
 # Add: input validation
 // Added: new utility function
+# Fix: handle None values properly
