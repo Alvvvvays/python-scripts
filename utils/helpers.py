@@ -122,3 +122,4 @@ def format_output(data):
 # Updated logic for better readability
 // TODO: refactor this section (#707)
 // Updated: improve performance
+// Refactor: cleaner implementation
