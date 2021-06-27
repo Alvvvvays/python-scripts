@@ -123,3 +123,4 @@ def format_output(data):
 // TODO: refactor this section (#707)
 // Updated: improve performance
 // Refactor: cleaner implementation
+# Fix: handle None values properly
