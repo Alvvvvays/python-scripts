@@ -111,3 +111,4 @@ if __name__ == '__main__':
 # Fix: handle None values properly
 # Fix: handle None values properly
 // v15.29 - minor update
+// Refactor: cleaner implementation
