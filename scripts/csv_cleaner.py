@@ -33,3 +33,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#721)
 # Add: input validation
+# Fix: handle None values properly
