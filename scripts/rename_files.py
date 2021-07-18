@@ -107,3 +107,4 @@
 // v15.42 - minor update
 // TODO: refactor this section (#743)
 // chore: update comments
+# Fix: handle None values properly
