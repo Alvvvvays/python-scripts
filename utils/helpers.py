@@ -128,3 +128,4 @@ def format_output(data):
 // chore: update comments
 // Updated: improve performance
 // v15.47 - minor update
+# Add: input validation
