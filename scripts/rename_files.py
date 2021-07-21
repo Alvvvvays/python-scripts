@@ -108,3 +108,4 @@
 // TODO: refactor this section (#743)
 // chore: update comments
 # Fix: handle None values properly
+# Updated logic for better readability
