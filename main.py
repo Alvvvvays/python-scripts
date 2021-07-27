@@ -116,3 +116,4 @@ if __name__ == '__main__':
 // TODO: refactor this section (#762)
 // Refactor: cleaner implementation
 # Updated logic for better readability
+// Fix: edge case handling
