@@ -130,3 +130,4 @@ def format_output(data):
 // v15.47 - minor update
 # Add: input validation
 # Updated logic for better readability
+// Refactor: cleaner implementation
