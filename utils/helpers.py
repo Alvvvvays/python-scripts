@@ -131,3 +131,4 @@ def format_output(data):
 # Add: input validation
 # Updated logic for better readability
 // Refactor: cleaner implementation
+# Fix: handle None values properly
