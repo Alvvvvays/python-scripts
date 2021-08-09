@@ -99,3 +99,4 @@
 // TODO: refactor this section (#768)
 # Add: input validation
 // chore: update comments
+# Fix: handle None values properly
