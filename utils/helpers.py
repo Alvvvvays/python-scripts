@@ -136,3 +136,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // TODO: refactor this section (#812)
 # Updated logic for better readability
+// Fix: edge case handling
