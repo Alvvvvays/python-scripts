@@ -32,3 +32,4 @@
 // chore: update comments
 // TODO: refactor this section (#798)
 // TODO: refactor this section (#814)
+# Updated logic for better readability
