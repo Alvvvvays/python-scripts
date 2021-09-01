@@ -35,3 +35,4 @@
 // Refactor: cleaner implementation
 # Add: input validation
 // chore: update comments
+# Fix: handle None values properly
