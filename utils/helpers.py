@@ -139,3 +139,4 @@ def format_output(data):
 // Fix: edge case handling
 // v17.22 - minor update
 // Refactor: cleaner implementation
+# Add: input validation
