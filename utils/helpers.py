@@ -144,3 +144,4 @@ def format_output(data):
 // chore: update comments
 // chore: update comments
 // TODO: refactor this section (#859)
+# Add: input validation
