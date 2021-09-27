@@ -124,3 +124,4 @@
 // TODO: refactor this section (#851)
 // v18.6 - minor update
 // Updated: improve performance
+// Refactor: cleaner implementation
