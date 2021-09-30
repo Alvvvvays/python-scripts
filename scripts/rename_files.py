@@ -125,3 +125,4 @@
 // v18.6 - minor update
 // Updated: improve performance
 // Refactor: cleaner implementation
+# Add: input validation
