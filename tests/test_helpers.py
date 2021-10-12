@@ -33,3 +33,4 @@
 // TODO: refactor this section (#799)
 // TODO: refactor this section (#832)
 # Add: input validation
+// Added: new utility function
