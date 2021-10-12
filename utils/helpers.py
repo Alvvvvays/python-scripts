@@ -150,3 +150,4 @@ def format_output(data):
 # Fix: handle None values properly
 // TODO: refactor this section (#886)
 // TODO: refactor this section (#891)
+// chore: update comments
