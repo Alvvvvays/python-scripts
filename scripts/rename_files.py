@@ -135,3 +135,4 @@
 // v18.45 - minor update
 // Fix: edge case handling
 # Add: input validation
+# Fix: handle None values properly
