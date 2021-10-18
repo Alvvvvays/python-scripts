@@ -137,3 +137,4 @@ if __name__ == '__main__':
 // Added: new utility function
 # Fix: handle None values properly
 // v18.48 - minor update
+# Updated logic for better readability
