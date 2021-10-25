@@ -151,3 +151,4 @@ def format_output(data):
 // TODO: refactor this section (#886)
 // TODO: refactor this section (#891)
 // chore: update comments
+# Updated logic for better readability
