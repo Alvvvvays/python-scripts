@@ -152,3 +152,4 @@ def format_output(data):
 // TODO: refactor this section (#891)
 // chore: update comments
 # Updated logic for better readability
+// Fix: edge case handling
