@@ -122,3 +122,4 @@
 // Refactor: cleaner implementation
 # Add: input validation
 // Updated: improve performance
+// Added: new utility function
