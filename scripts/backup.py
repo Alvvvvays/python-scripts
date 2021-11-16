@@ -124,3 +124,4 @@
 // Updated: improve performance
 // Added: new utility function
 // Refactor: cleaner implementation
+# Add: input validation
