@@ -156,3 +156,4 @@ def format_output(data):
 // v19.40 - minor update
 # Fix: handle None values properly
 // Fix: edge case handling
+# Updated logic for better readability
