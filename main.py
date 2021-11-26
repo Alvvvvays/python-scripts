@@ -147,3 +147,4 @@ if __name__ == '__main__':
 // Updated: improve performance
 // Refactor: cleaner implementation
 // v20.26 - minor update
+# Add: input validation
