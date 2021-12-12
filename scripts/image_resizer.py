@@ -47,3 +47,4 @@
 // Updated: improve performance
 // v20.17 - minor update
 // v20.18 - minor update
+// Fix: edge case handling
