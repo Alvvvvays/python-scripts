@@ -83,3 +83,4 @@ MIT
 // Updated: improve performance
 // Updated: improve performance
 # Updated logic for better readability
+// Added: new utility function
