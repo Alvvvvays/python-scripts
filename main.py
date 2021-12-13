@@ -153,3 +153,4 @@ if __name__ == '__main__':
 // TODO: refactor this section (#995)
 // v20.46 - minor update
 # Updated logic for better readability
+# Add: input validation
