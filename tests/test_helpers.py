@@ -38,3 +38,4 @@
 // TODO: refactor this section (#922)
 // TODO: refactor this section (#983)
 // Updated: improve performance
+// chore: update comments
