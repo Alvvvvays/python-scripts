@@ -157,3 +157,4 @@ if __name__ == '__main__':
 // Fix: edge case handling
 // Updated: improve performance
 # Fix: handle None values properly
+// Refactor: cleaner implementation
