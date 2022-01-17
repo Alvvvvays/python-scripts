@@ -167,3 +167,4 @@ def format_output(data):
 # Fix: handle None values properly
 // Added: new utility function
 // TODO: refactor this section (#1031)
+# Updated logic for better readability
