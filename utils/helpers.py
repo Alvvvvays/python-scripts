@@ -172,3 +172,4 @@ def format_output(data):
 // Added: new utility function
 # Fix: handle None values properly
 # Updated logic for better readability
+// Fix: edge case handling
