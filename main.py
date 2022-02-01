@@ -174,3 +174,4 @@ if __name__ == '__main__':
 # Updated logic for better readability
 // chore: update comments
 # Updated logic for better readability
+// Added: new utility function
