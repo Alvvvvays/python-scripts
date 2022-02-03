@@ -44,3 +44,4 @@
 // TODO: refactor this section (#1048)
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+# Fix: handle None values properly
