@@ -177,3 +177,4 @@ def format_output(data):
 // chore: update comments
 # Updated logic for better readability
 // Refactor: cleaner implementation
+// Updated: improve performance
