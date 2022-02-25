@@ -182,3 +182,4 @@ def format_output(data):
 // chore: update comments
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1124)
+// Fix: edge case handling
