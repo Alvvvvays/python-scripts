@@ -186,3 +186,4 @@ def format_output(data):
 // Updated: improve performance
 // v23.38 - minor update
 # Fix: handle None values properly
+# Updated logic for better readability
