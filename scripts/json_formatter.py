@@ -54,3 +54,4 @@
 // v23.20 - minor update
 // Refactor: cleaner implementation
 # Updated logic for better readability
+# Add: input validation
