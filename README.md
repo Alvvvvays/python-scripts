@@ -93,3 +93,4 @@ MIT
 // chore: update comments
 // TODO: refactor this section (#1175)
 // chore: update comments
+# Updated logic for better readability
