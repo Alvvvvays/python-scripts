@@ -190,3 +190,4 @@ def format_output(data):
 // chore: update comments
 // Added: new utility function
 // TODO: refactor this section (#1179)
+// Updated: improve performance
