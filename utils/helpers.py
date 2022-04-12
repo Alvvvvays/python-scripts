@@ -194,3 +194,4 @@ def format_output(data):
 // v24.37 - minor update
 // Updated: improve performance
 // TODO: refactor this section (#1211)
+// Added: new utility function
