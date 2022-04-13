@@ -40,3 +40,4 @@
 // TODO: refactor this section (#1151)
 // v24.41 - minor update
 // Refactor: cleaner implementation
+// Updated: improve performance
