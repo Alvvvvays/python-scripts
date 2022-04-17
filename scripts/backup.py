@@ -159,3 +159,4 @@
 # Updated logic for better readability
 // v25.17 - minor update
 // Updated: improve performance
+# Fix: handle None values properly
