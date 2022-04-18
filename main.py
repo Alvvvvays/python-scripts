@@ -195,3 +195,4 @@ if __name__ == '__main__':
 // Refactor: cleaner implementation
 # Updated logic for better readability
 // Added: new utility function
+# Fix: handle None values properly
