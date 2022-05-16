@@ -43,3 +43,4 @@
 // Updated: improve performance
 // chore: update comments
 // v25.39 - minor update
+# Fix: handle None values properly
