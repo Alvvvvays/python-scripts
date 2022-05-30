@@ -65,3 +65,4 @@
 # Updated logic for better readability
 // Fix: edge case handling
 // v26.21 - minor update
+# Fix: handle None values properly
