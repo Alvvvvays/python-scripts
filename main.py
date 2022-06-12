@@ -209,3 +209,4 @@ if __name__ == '__main__':
 // v26.46 - minor update
 # Updated logic for better readability
 # Updated logic for better readability
+# Fix: handle None values properly
