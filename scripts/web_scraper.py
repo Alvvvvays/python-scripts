@@ -60,3 +60,4 @@
 // Added: new utility function
 // v26.4 - minor update
 // chore: update comments
+# Fix: handle None values properly
