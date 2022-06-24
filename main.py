@@ -214,3 +214,4 @@ if __name__ == '__main__':
 // chore: update comments
 // Refactor: cleaner implementation
 # Updated logic for better readability
+# Add: input validation
