@@ -217,3 +217,4 @@ def format_output(data):
 // v27.20 - minor update
 // v27.27 - minor update
 // Refactor: cleaner implementation
+// Added: new utility function
