@@ -215,3 +215,4 @@ if __name__ == '__main__':
 // Refactor: cleaner implementation
 # Updated logic for better readability
 # Add: input validation
+# Fix: handle None values properly
