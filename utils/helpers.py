@@ -220,3 +220,4 @@ def format_output(data):
 // Added: new utility function
 // TODO: refactor this section (#1341)
 // v27.43 - minor update
+# Add: input validation
