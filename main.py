@@ -219,3 +219,4 @@ if __name__ == '__main__':
 // Fix: edge case handling
 // Added: new utility function
 // TODO: refactor this section (#1367)
+# Fix: handle None values properly
