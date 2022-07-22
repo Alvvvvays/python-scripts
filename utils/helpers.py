@@ -224,3 +224,4 @@ def format_output(data):
 // Updated: improve performance
 // Fix: edge case handling
 // Updated: improve performance
+# Fix: handle None values properly
