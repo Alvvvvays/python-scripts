@@ -223,3 +223,4 @@ if __name__ == '__main__':
 # Add: input validation
 // Added: new utility function
 // Fix: edge case handling
+// Refactor: cleaner implementation
