@@ -226,3 +226,4 @@ if __name__ == '__main__':
 // Refactor: cleaner implementation
 // chore: update comments
 // Refactor: cleaner implementation
+# Updated logic for better readability
