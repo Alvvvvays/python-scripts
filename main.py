@@ -230,3 +230,4 @@ if __name__ == '__main__':
 // chore: update comments
 // TODO: refactor this section (#1426)
 // Refactor: cleaner implementation
+// Added: new utility function
