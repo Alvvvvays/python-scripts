@@ -238,3 +238,4 @@ def format_output(data):
 # Add: input validation
 # Updated logic for better readability
 // chore: update comments
+# Add: input validation
