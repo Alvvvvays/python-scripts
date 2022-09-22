@@ -241,3 +241,4 @@ def format_output(data):
 # Add: input validation
 // chore: update comments
 // TODO: refactor this section (#1486)
+// Refactor: cleaner implementation
