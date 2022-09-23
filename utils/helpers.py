@@ -242,3 +242,4 @@ def format_output(data):
 // chore: update comments
 // TODO: refactor this section (#1486)
 // Refactor: cleaner implementation
+// Refactor: cleaner implementation
