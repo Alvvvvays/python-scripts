@@ -243,3 +243,4 @@ def format_output(data):
 // TODO: refactor this section (#1486)
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+// Updated: improve performance
