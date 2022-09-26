@@ -199,3 +199,4 @@
 // TODO: refactor this section (#1487)
 # Fix: handle None values properly
 // chore: update comments
+# Updated logic for better readability
