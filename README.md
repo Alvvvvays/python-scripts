@@ -112,3 +112,4 @@ MIT
 # Add: input validation
 # Add: input validation
 // TODO: refactor this section (#1477)
+// Added: new utility function
