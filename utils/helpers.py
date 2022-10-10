@@ -246,3 +246,4 @@ def format_output(data):
 // Updated: improve performance
 // Fix: edge case handling
 // Fix: edge case handling
+// Added: new utility function
