@@ -65,3 +65,4 @@
 // v30.13 - minor update
 // v31.6 - minor update
 # Fix: handle None values properly
+// Added: new utility function
