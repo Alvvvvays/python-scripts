@@ -196,3 +196,4 @@
 # Updated logic for better readability
 // chore: update comments
 # Add: input validation
+# Fix: handle None values properly
