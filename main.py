@@ -244,3 +244,4 @@ if __name__ == '__main__':
 // chore: update comments
 // Updated: improve performance
 // Added: new utility function
+# Fix: handle None values properly
