@@ -248,3 +248,4 @@ if __name__ == '__main__':
 // Updated: improve performance
 # Fix: handle None values properly
 // chore: update comments
+// TODO: refactor this section (#1556)
