@@ -249,3 +249,4 @@ if __name__ == '__main__':
 # Fix: handle None values properly
 // chore: update comments
 // TODO: refactor this section (#1556)
+// Refactor: cleaner implementation
