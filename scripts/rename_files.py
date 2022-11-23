@@ -207,3 +207,4 @@
 // chore: update comments
 // Refactor: cleaner implementation
 // v32.36 - minor update
+// Added: new utility function
