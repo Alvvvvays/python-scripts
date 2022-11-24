@@ -59,3 +59,4 @@
 // Fix: edge case handling
 // chore: update comments
 // TODO: refactor this section (#1565)
+# Fix: handle None values properly
