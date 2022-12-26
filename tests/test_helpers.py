@@ -66,3 +66,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#1618)
 # Updated logic for better readability
+# Fix: handle None values properly
