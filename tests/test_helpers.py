@@ -67,3 +67,4 @@
 // TODO: refactor this section (#1618)
 # Updated logic for better readability
 # Fix: handle None values properly
+// Fix: edge case handling
