@@ -264,3 +264,4 @@ if __name__ == '__main__':
 # Fix: handle None values properly
 // v34.22 - minor update
 // TODO: refactor this section (#1680)
+# Updated logic for better readability
