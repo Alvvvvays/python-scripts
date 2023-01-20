@@ -77,3 +77,4 @@
 // chore: update comments
 // TODO: refactor this section (#1683)
 // v34.34 - minor update
+# Fix: handle None values properly
