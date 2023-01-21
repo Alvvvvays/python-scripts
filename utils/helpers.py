@@ -270,3 +270,4 @@ def format_output(data):
 // Added: new utility function
 // v34.40 - minor update
 // chore: update comments
+# Updated logic for better readability
