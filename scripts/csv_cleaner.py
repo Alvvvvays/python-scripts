@@ -78,3 +78,4 @@
 // Added: new utility function
 // v34.38 - minor update
 // v34.39 - minor update
+# Updated logic for better readability
