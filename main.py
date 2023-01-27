@@ -269,3 +269,4 @@ if __name__ == '__main__':
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1711)
 # Updated logic for better readability
+# Add: input validation
