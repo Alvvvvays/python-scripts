@@ -124,3 +124,4 @@ MIT
 // TODO: refactor this section (#1637)
 // Updated: improve performance
 // Updated: improve performance
+# Updated logic for better readability
