@@ -82,3 +82,4 @@
 # Fix: handle None values properly
 # Add: input validation
 // Updated: improve performance
+// Added: new utility function
