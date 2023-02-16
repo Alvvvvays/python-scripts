@@ -93,3 +93,4 @@
 // Added: new utility function
 // TODO: refactor this section (#1754)
 // chore: update comments
+# Fix: handle None values properly
