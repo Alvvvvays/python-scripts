@@ -276,3 +276,4 @@ def format_output(data):
 # Add: input validation
 # Updated logic for better readability
 // TODO: refactor this section (#1764)
+# Updated logic for better readability
