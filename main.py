@@ -276,3 +276,4 @@ if __name__ == '__main__':
 // Updated: improve performance
 // Updated: improve performance
 // chore: update comments
+// Added: new utility function
