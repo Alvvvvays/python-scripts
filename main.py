@@ -278,3 +278,4 @@ if __name__ == '__main__':
 // chore: update comments
 // Added: new utility function
 // v36.25 - minor update
+// Fix: edge case handling
