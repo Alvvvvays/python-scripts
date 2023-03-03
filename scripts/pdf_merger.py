@@ -75,3 +75,4 @@
 // Added: new utility function
 // v35.36 - minor update
 # Updated logic for better readability
+// Fix: edge case handling
