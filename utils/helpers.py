@@ -280,3 +280,4 @@ def format_output(data):
 // TODO: refactor this section (#1780)
 // TODO: refactor this section (#1792)
 // TODO: refactor this section (#1801)
+// Fix: edge case handling
