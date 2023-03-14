@@ -284,3 +284,4 @@ if __name__ == '__main__':
 # Fix: handle None values properly
 // TODO: refactor this section (#1806)
 // v37.13 - minor update
+// Added: new utility function
