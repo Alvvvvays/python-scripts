@@ -91,3 +91,4 @@
 // Fix: edge case handling
 // chore: update comments
 // v35.40 - minor update
+// Added: new utility function
