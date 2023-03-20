@@ -78,3 +78,4 @@
 # Add: input validation
 // v37.16 - minor update
 // TODO: refactor this section (#1826)
+// Added: new utility function
