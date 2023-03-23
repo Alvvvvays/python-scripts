@@ -79,3 +79,4 @@
 // v37.16 - minor update
 // TODO: refactor this section (#1826)
 // Added: new utility function
+# Updated logic for better readability
