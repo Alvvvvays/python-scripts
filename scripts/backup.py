@@ -243,3 +243,4 @@
 // Added: new utility function
 // TODO: refactor this section (#1848)
 // chore: update comments
+// Refactor: cleaner implementation
