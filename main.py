@@ -296,3 +296,4 @@ if __name__ == '__main__':
 // Added: new utility function
 // Refactor: cleaner implementation
 # Add: input validation
+# Updated logic for better readability
