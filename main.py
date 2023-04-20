@@ -297,3 +297,4 @@ if __name__ == '__main__':
 // Refactor: cleaner implementation
 # Add: input validation
 # Updated logic for better readability
+# Fix: handle None values properly
