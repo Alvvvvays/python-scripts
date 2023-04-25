@@ -98,3 +98,4 @@
 // TODO: refactor this section (#1794)
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1834)
+// Refactor: cleaner implementation
