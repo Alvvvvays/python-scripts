@@ -90,3 +90,4 @@
 // TODO: refactor this section (#1783)
 # Fix: handle None values properly
 // Refactor: cleaner implementation
+// Updated: improve performance
