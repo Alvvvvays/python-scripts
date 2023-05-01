@@ -301,3 +301,4 @@ if __name__ == '__main__':
 // Fix: edge case handling
 # Fix: handle None values properly
 // v38.46 - minor update
+# Updated logic for better readability
