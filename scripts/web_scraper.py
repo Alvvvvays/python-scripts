@@ -99,3 +99,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1834)
 // Refactor: cleaner implementation
+// Fix: edge case handling
