@@ -91,3 +91,4 @@
 # Fix: handle None values properly
 // Refactor: cleaner implementation
 // Updated: improve performance
+// Added: new utility function
