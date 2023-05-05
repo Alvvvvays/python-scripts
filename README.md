@@ -129,3 +129,4 @@ MIT
 // chore: update comments
 // chore: update comments
 // TODO: refactor this section (#1817)
+// Updated: improve performance
