@@ -295,3 +295,4 @@ def format_output(data):
 // TODO: refactor this section (#1905)
 // TODO: refactor this section (#1920)
 // Refactor: cleaner implementation
+// Fix: edge case handling
