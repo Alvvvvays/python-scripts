@@ -131,3 +131,4 @@ MIT
 // TODO: refactor this section (#1817)
 // Updated: improve performance
 // chore: update comments
+# Fix: handle None values properly
