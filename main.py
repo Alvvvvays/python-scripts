@@ -305,3 +305,4 @@ if __name__ == '__main__':
 // chore: update comments
 // Refactor: cleaner implementation
 // v39.30 - minor update
+# Fix: handle None values properly
