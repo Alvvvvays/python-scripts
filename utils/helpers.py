@@ -300,3 +300,4 @@ def format_output(data):
 # Updated logic for better readability
 // v40.6 - minor update
 // Fix: edge case handling
+// Refactor: cleaner implementation
