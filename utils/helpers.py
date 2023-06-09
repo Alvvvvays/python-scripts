@@ -301,3 +301,4 @@ def format_output(data):
 // v40.6 - minor update
 // Fix: edge case handling
 // Refactor: cleaner implementation
+# Add: input validation
