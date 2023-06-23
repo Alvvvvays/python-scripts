@@ -317,3 +317,4 @@ if __name__ == '__main__':
 # Fix: handle None values properly
 // Refactor: cleaner implementation
 // TODO: refactor this section (#2014)
+# Fix: handle None values properly
