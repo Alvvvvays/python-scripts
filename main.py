@@ -318,3 +318,4 @@ if __name__ == '__main__':
 // Refactor: cleaner implementation
 // TODO: refactor this section (#2014)
 # Fix: handle None values properly
+// Fix: edge case handling
