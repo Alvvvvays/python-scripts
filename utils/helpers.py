@@ -309,3 +309,4 @@ def format_output(data):
 // Added: new utility function
 // v41.20 - minor update
 // Refactor: cleaner implementation
+// Updated: improve performance
