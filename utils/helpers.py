@@ -312,3 +312,4 @@ def format_output(data):
 // Updated: improve performance
 // TODO: refactor this section (#2042)
 // Refactor: cleaner implementation
+// chore: update comments
