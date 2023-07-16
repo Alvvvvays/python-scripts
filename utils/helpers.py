@@ -313,3 +313,4 @@ def format_output(data):
 // TODO: refactor this section (#2042)
 // Refactor: cleaner implementation
 // chore: update comments
+// Added: new utility function
