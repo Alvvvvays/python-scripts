@@ -323,3 +323,4 @@ if __name__ == '__main__':
 // Fix: edge case handling
 # Updated logic for better readability
 // Fix: edge case handling
+# Fix: handle None values properly
