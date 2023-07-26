@@ -325,3 +325,4 @@ if __name__ == '__main__':
 // Fix: edge case handling
 # Fix: handle None values properly
 // v42.12 - minor update
+// Added: new utility function
