@@ -328,3 +328,4 @@ if __name__ == '__main__':
 // Added: new utility function
 // TODO: refactor this section (#2066)
 // TODO: refactor this section (#2068)
+// Fix: edge case handling
