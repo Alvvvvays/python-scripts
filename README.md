@@ -145,3 +145,4 @@ MIT
 // Updated: improve performance
 # Fix: handle None values properly
 // v42.36 - minor update
+// Refactor: cleaner implementation
