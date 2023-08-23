@@ -279,3 +279,4 @@
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
 // Added: new utility function
+// Updated: improve performance
