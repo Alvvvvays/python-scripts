@@ -334,3 +334,4 @@ if __name__ == '__main__':
 // Updated: improve performance
 // v43.15 - minor update
 # Updated logic for better readability
+# Fix: handle None values properly
