@@ -284,3 +284,4 @@
 # Add: input validation
 // Updated: improve performance
 # Updated logic for better readability
+// Refactor: cleaner implementation
