@@ -325,3 +325,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // chore: update comments
 // v43.47 - minor update
+# Add: input validation
