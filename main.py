@@ -339,3 +339,4 @@ if __name__ == '__main__':
 // Fix: edge case handling
 # Updated logic for better readability
 # Fix: handle None values properly
+# Add: input validation
