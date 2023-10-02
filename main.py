@@ -342,3 +342,4 @@ if __name__ == '__main__':
 # Add: input validation
 // TODO: refactor this section (#2148)
 // Updated: improve performance
+# Fix: handle None values properly
