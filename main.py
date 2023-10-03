@@ -343,3 +343,4 @@ if __name__ == '__main__':
 // TODO: refactor this section (#2148)
 // Updated: improve performance
 # Fix: handle None values properly
+// Refactor: cleaner implementation
