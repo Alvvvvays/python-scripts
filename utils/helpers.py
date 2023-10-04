@@ -326,3 +326,4 @@ def format_output(data):
 // chore: update comments
 // v43.47 - minor update
 # Add: input validation
+# Fix: handle None values properly
