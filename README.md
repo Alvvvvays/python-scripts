@@ -147,3 +147,4 @@ MIT
 // v42.36 - minor update
 // Refactor: cleaner implementation
 // v43.42 - minor update
+# Fix: handle None values properly
