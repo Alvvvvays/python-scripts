@@ -292,3 +292,4 @@
 // Updated: improve performance
 // v44.15 - minor update
 // Fix: edge case handling
+// Added: new utility function
