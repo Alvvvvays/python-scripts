@@ -295,3 +295,4 @@
 // Added: new utility function
 // Updated: improve performance
 // v44.29 - minor update
+# Fix: handle None values properly
