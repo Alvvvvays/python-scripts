@@ -293,3 +293,4 @@
 // Added: new utility function
 // Added: new utility function
 # Fix: handle None values properly
+// Fix: edge case handling
