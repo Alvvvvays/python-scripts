@@ -337,3 +337,4 @@ def format_output(data):
 // Updated: improve performance
 # Add: input validation
 # Fix: handle None values properly
+# Add: input validation
