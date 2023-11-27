@@ -338,3 +338,4 @@ def format_output(data):
 # Add: input validation
 # Fix: handle None values properly
 # Add: input validation
+// chore: update comments
