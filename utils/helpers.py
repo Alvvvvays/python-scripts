@@ -340,3 +340,4 @@ def format_output(data):
 # Add: input validation
 // chore: update comments
 # Add: input validation
+// Added: new utility function
