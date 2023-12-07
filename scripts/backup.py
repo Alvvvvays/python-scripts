@@ -306,3 +306,4 @@
 // chore: update comments
 // TODO: refactor this section (#2258)
 // Added: new utility function
+// Updated: improve performance
