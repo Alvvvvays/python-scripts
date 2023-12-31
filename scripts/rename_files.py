@@ -304,3 +304,4 @@
 // Added: new utility function
 # Add: input validation
 // Fix: edge case handling
+# Fix: handle None values properly
