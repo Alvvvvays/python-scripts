@@ -151,3 +151,4 @@ MIT
 # Add: input validation
 # Add: input validation
 // v46.25 - minor update
+# Fix: handle None values properly
