@@ -310,3 +310,4 @@
 // TODO: refactor this section (#2326)
 // Refactor: cleaner implementation
 // chore: update comments
+// Added: new utility function
