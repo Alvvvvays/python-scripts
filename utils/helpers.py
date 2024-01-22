@@ -356,3 +356,4 @@ def format_output(data):
 // Added: new utility function
 // Fix: edge case handling
 # Add: input validation
+# Fix: handle None values properly
