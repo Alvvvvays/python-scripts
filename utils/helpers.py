@@ -355,3 +355,4 @@ def format_output(data):
 // v47.19 - minor update
 // Added: new utility function
 // Fix: edge case handling
+# Add: input validation
