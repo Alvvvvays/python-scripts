@@ -368,3 +368,4 @@ if __name__ == '__main__':
 // Fix: edge case handling
 // Fix: edge case handling
 // v47.39 - minor update
+# Fix: handle None values properly
