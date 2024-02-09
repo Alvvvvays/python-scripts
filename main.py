@@ -373,3 +373,4 @@ if __name__ == '__main__':
 // TODO: refactor this section (#2353)
 // Fix: edge case handling
 // Updated: improve performance
+// Added: new utility function
