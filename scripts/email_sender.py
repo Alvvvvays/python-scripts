@@ -118,3 +118,4 @@
 // v48.1 - minor update
 // Updated: improve performance
 // Refactor: cleaner implementation
+// Fix: edge case handling
