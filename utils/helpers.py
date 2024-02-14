@@ -358,3 +358,4 @@ def format_output(data):
 # Add: input validation
 # Fix: handle None values properly
 // Added: new utility function
+# Updated logic for better readability
