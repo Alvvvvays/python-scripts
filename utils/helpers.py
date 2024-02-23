@@ -364,3 +364,4 @@ def format_output(data):
 // Added: new utility function
 // Refactor: cleaner implementation
 # Updated logic for better readability
+# Add: input validation
