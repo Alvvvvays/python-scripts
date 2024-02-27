@@ -365,3 +365,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 # Updated logic for better readability
 # Add: input validation
+// Refactor: cleaner implementation
