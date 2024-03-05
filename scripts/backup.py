@@ -329,3 +329,4 @@
 // Refactor: cleaner implementation
 // v48.42 - minor update
 // v48.46 - minor update
+// Added: new utility function
