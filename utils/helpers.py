@@ -366,3 +366,4 @@ def format_output(data):
 # Updated logic for better readability
 # Add: input validation
 // Refactor: cleaner implementation
+// Refactor: cleaner implementation
