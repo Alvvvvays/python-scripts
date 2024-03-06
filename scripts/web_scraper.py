@@ -127,3 +127,4 @@
 # Updated logic for better readability
 // Refactor: cleaner implementation
 // Updated: improve performance
+# Fix: handle None values properly
