@@ -380,3 +380,4 @@ if __name__ == '__main__':
 # Updated logic for better readability
 # Add: input validation
 // TODO: refactor this section (#2403)
+// Added: new utility function
