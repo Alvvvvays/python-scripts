@@ -382,3 +382,4 @@ if __name__ == '__main__':
 // TODO: refactor this section (#2403)
 // Added: new utility function
 // chore: update comments
+// Updated: improve performance
