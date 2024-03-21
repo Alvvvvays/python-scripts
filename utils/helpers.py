@@ -368,3 +368,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
 // v49.17 - minor update
+# Updated logic for better readability
