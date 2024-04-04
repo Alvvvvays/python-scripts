@@ -386,3 +386,4 @@ if __name__ == '__main__':
 # Fix: handle None values properly
 # Updated logic for better readability
 // v49.36 - minor update
+// Fix: edge case handling
