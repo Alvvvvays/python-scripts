@@ -119,3 +119,4 @@
 // Updated: improve performance
 // Fix: edge case handling
 // chore: update comments
+# Fix: handle None values properly
