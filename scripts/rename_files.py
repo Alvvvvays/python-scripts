@@ -327,3 +327,4 @@
 // Added: new utility function
 // Fix: edge case handling
 // TODO: refactor this section (#2455)
+// Updated: improve performance
