@@ -342,3 +342,4 @@
 # Add: input validation
 // Updated: improve performance
 # Add: input validation
+# Fix: handle None values properly
