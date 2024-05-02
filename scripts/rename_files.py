@@ -333,3 +333,4 @@
 // chore: update comments
 // Updated: improve performance
 // TODO: refactor this section (#2492)
+# Fix: handle None values properly
