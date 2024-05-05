@@ -376,3 +376,4 @@ def format_output(data):
 // v50.34 - minor update
 # Add: input validation
 # Fix: handle None values properly
+# Add: input validation
