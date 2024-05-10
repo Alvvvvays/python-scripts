@@ -160,3 +160,4 @@ MIT
 // Updated: improve performance
 // TODO: refactor this section (#2465)
 // Fix: edge case handling
+// chore: update comments
