@@ -110,3 +110,4 @@
 # Updated logic for better readability
 // Updated: improve performance
 // v50.46 - minor update
+// Added: new utility function
