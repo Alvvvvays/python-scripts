@@ -348,3 +348,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#2519)
 // Refactor: cleaner implementation
+// Updated: improve performance
