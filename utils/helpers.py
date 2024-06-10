@@ -382,3 +382,4 @@ def format_output(data):
 // v51.37 - minor update
 // TODO: refactor this section (#2544)
 # Fix: handle None values properly
+# Updated logic for better readability
