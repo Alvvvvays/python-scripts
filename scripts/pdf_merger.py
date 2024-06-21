@@ -103,3 +103,4 @@
 // Updated: improve performance
 // Refactor: cleaner implementation
 # Add: input validation
+# Fix: handle None values properly
