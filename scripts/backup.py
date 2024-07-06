@@ -357,3 +357,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#2557)
 // v52.30 - minor update
+// Added: new utility function
