@@ -342,3 +342,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#2560)
 # Add: input validation
+// Added: new utility function
