@@ -388,3 +388,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // Added: new utility function
 // Fix: edge case handling
+// Added: new utility function
