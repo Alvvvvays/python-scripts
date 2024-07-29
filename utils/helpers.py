@@ -390,3 +390,4 @@ def format_output(data):
 // Fix: edge case handling
 // Added: new utility function
 // chore: update comments
+# Updated logic for better readability
