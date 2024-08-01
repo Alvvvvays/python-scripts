@@ -129,3 +129,4 @@
 // TODO: refactor this section (#2566)
 // chore: update comments
 // Updated: improve performance
+# Fix: handle None values properly
