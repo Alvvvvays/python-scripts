@@ -392,3 +392,4 @@ def format_output(data):
 // chore: update comments
 # Updated logic for better readability
 # Add: input validation
+// Refactor: cleaner implementation
