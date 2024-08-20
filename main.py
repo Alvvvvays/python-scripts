@@ -413,3 +413,4 @@ if __name__ == '__main__':
 // TODO: refactor this section (#2643)
 // TODO: refactor this section (#2646)
 // Refactor: cleaner implementation
+// Fix: edge case handling
