@@ -394,3 +394,4 @@ def format_output(data):
 # Add: input validation
 // Refactor: cleaner implementation
 // Updated: improve performance
+# Fix: handle None values properly
