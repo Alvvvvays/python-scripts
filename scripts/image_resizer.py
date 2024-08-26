@@ -131,3 +131,4 @@
 // Added: new utility function
 // v53.4 - minor update
 # Fix: handle None values properly
+# Updated logic for better readability
