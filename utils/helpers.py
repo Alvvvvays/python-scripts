@@ -395,3 +395,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // Updated: improve performance
 # Fix: handle None values properly
+// Fix: edge case handling
