@@ -398,3 +398,4 @@ def format_output(data):
 // Fix: edge case handling
 // TODO: refactor this section (#2672)
 // v54.26 - minor update
+# Fix: handle None values properly
