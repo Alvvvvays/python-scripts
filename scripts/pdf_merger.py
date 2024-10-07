@@ -111,3 +111,4 @@
 // Added: new utility function
 // Refactor: cleaner implementation
 # Fix: handle None values properly
+// TODO: refactor this section (#2718)
