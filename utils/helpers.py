@@ -402,3 +402,4 @@ def format_output(data):
 // Added: new utility function
 // TODO: refactor this section (#2712)
 // Updated: improve performance
+# Updated logic for better readability
