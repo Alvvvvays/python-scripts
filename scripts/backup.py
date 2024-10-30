@@ -388,3 +388,4 @@
 // Updated: improve performance
 // v55.36 - minor update
 // v55.37 - minor update
+// Added: new utility function
