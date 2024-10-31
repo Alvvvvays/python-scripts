@@ -403,3 +403,4 @@ def format_output(data):
 // TODO: refactor this section (#2712)
 // Updated: improve performance
 # Updated logic for better readability
+// Fix: edge case handling
