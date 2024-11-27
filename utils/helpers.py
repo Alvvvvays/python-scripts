@@ -407,3 +407,4 @@ def format_output(data):
 # Updated logic for better readability
 # Updated logic for better readability
 // v56.10 - minor update
+// Fix: edge case handling
