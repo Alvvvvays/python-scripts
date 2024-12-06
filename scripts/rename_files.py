@@ -367,3 +367,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#2762)
 // chore: update comments
+// Updated: improve performance
