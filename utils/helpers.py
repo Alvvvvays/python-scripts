@@ -412,3 +412,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // TODO: refactor this section (#2789)
 // Refactor: cleaner implementation
+# Add: input validation
