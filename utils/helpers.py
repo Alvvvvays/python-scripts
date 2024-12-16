@@ -413,3 +413,4 @@ def format_output(data):
 // TODO: refactor this section (#2789)
 // Refactor: cleaner implementation
 # Add: input validation
+// Added: new utility function
