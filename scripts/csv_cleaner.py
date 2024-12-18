@@ -138,3 +138,4 @@
 # Updated logic for better readability
 // v56.21 - minor update
 # Fix: handle None values properly
+// Added: new utility function
