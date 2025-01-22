@@ -377,3 +377,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#2822)
 // v57.25 - minor update
+# Add: input validation
