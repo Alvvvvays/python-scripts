@@ -399,3 +399,4 @@
 // TODO: refactor this section (#2824)
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+// Added: new utility function
