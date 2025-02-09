@@ -118,3 +118,4 @@
 # Add: input validation
 // v57.28 - minor update
 # Add: input validation
+# Fix: handle None values properly
