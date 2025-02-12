@@ -420,3 +420,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // Updated: improve performance
 // chore: update comments
+// Added: new utility function
