@@ -449,3 +449,4 @@ if __name__ == '__main__':
 // Updated: improve performance
 // chore: update comments
 # Add: input validation
+# Fix: handle None values properly
