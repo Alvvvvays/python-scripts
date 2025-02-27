@@ -451,3 +451,4 @@ if __name__ == '__main__':
 # Add: input validation
 # Fix: handle None values properly
 // TODO: refactor this section (#2869)
+// Fix: edge case handling
