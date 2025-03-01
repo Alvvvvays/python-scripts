@@ -422,3 +422,4 @@ def format_output(data):
 // chore: update comments
 // Added: new utility function
 // v58.15 - minor update
+# Add: input validation
