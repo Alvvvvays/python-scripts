@@ -426,3 +426,4 @@ def format_output(data):
 // chore: update comments
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+// Added: new utility function
