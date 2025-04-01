@@ -427,3 +427,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
 // Added: new utility function
+# Fix: handle None values properly
