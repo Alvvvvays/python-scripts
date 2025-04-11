@@ -429,3 +429,4 @@ def format_output(data):
 // Added: new utility function
 # Fix: handle None values properly
 // Fix: edge case handling
+// Refactor: cleaner implementation
