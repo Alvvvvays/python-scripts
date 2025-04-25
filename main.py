@@ -460,3 +460,4 @@ if __name__ == '__main__':
 # Fix: handle None values properly
 // Added: new utility function
 # Add: input validation
+// Fix: edge case handling
