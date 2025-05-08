@@ -431,3 +431,4 @@ def format_output(data):
 // Fix: edge case handling
 // Refactor: cleaner implementation
 // chore: update comments
+# Add: input validation
