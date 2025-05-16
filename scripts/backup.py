@@ -415,3 +415,4 @@
 // Added: new utility function
 # Fix: handle None values properly
 // TODO: refactor this section (#2945)
+# Add: input validation
