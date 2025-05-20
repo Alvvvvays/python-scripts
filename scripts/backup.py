@@ -417,3 +417,4 @@
 // TODO: refactor this section (#2945)
 # Add: input validation
 // Fix: edge case handling
+# Fix: handle None values properly
