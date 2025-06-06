@@ -465,3 +465,4 @@ if __name__ == '__main__':
 // TODO: refactor this section (#2947)
 // v60.9 - minor update
 # Updated logic for better readability
+// Added: new utility function
