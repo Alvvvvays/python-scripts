@@ -393,3 +393,4 @@
 // v60.7 - minor update
 // Added: new utility function
 // Fix: edge case handling
+# Add: input validation
