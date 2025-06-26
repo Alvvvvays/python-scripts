@@ -442,3 +442,4 @@ def format_output(data):
 // Fix: edge case handling
 // TODO: refactor this section (#2983)
 // Added: new utility function
+// Refactor: cleaner implementation
