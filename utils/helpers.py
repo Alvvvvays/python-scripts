@@ -444,3 +444,4 @@ def format_output(data):
 // Added: new utility function
 // Refactor: cleaner implementation
 # Add: input validation
+# Fix: handle None values properly
