@@ -474,3 +474,4 @@ if __name__ == '__main__':
 // Updated: improve performance
 // v61.29 - minor update
 // Updated: improve performance
+// Added: new utility function
