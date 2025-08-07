@@ -432,3 +432,4 @@
 # Add: input validation
 // Fix: edge case handling
 // Refactor: cleaner implementation
+// Added: new utility function
