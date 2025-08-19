@@ -449,3 +449,4 @@ def format_output(data):
 // Refactor: cleaner implementation
 // Updated: improve performance
 // v61.47 - minor update
+// Added: new utility function
