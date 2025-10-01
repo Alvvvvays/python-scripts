@@ -179,3 +179,4 @@ MIT
 # Updated logic for better readability
 # Fix: handle None values properly
 // TODO: refactor this section (#3060)
+# Add: input validation
