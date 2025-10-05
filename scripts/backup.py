@@ -441,3 +441,4 @@
 // TODO: refactor this section (#3080)
 // Added: new utility function
 # Fix: handle None values properly
+# Updated logic for better readability
