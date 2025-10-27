@@ -160,3 +160,4 @@
 // Added: new utility function
 // TODO: refactor this section (#3068)
 // Added: new utility function
+# Fix: handle None values properly
