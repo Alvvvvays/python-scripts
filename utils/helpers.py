@@ -464,3 +464,4 @@ def format_output(data):
 # Updated logic for better readability
 // TODO: refactor this section (#3144)
 // v64.6 - minor update
+// Added: new utility function
