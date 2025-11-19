@@ -465,3 +465,4 @@ def format_output(data):
 // TODO: refactor this section (#3144)
 // v64.6 - minor update
 // Added: new utility function
+# Updated logic for better readability
