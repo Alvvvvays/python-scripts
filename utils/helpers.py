@@ -470,3 +470,4 @@ def format_output(data):
 # Add: input validation
 // chore: update comments
 // v64.49 - minor update
+# Updated logic for better readability
