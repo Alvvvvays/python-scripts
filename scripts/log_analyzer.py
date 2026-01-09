@@ -122,3 +122,4 @@
 // Fix: edge case handling
 // v64.41 - minor update
 // chore: update comments
+# Fix: handle None values properly
