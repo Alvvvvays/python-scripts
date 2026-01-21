@@ -472,3 +472,4 @@ def format_output(data):
 // v64.49 - minor update
 # Updated logic for better readability
 # Updated logic for better readability
+// Added: new utility function
