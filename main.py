@@ -493,3 +493,4 @@ if __name__ == '__main__':
 // Fix: edge case handling
 // chore: update comments
 // Updated: improve performance
+# Fix: handle None values properly
