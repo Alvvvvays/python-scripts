@@ -150,3 +150,4 @@
 // Refactor: cleaner implementation
 # Updated logic for better readability
 // Updated: improve performance
+# Add: input validation
