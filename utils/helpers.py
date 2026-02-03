@@ -476,3 +476,4 @@ def format_output(data):
 // Updated: improve performance
 // Updated: improve performance
 // Added: new utility function
+# Updated logic for better readability
