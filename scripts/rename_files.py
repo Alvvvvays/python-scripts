@@ -446,3 +446,4 @@
 # Fix: handle None values properly
 // Updated: improve performance
 // Updated: improve performance
+// Added: new utility function
