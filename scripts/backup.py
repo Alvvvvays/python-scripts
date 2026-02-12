@@ -462,3 +462,4 @@
 # Fix: handle None values properly
 // Refactor: cleaner implementation
 // TODO: refactor this section (#3247)
+# Updated logic for better readability
