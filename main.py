@@ -497,3 +497,4 @@ if __name__ == '__main__':
 // v65.39 - minor update
 # Updated logic for better readability
 // chore: update comments
+# Add: input validation
